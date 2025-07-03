@@ -71,5 +71,7 @@ The dataset `Mall_Customers.csv` contains information about 200 customers of a M
   - Balanced segments
 - PCA allowed intuitive visualization of customer segments in 2D space.
 
+Key observations are included in `Observations.md` file
+
 
 
